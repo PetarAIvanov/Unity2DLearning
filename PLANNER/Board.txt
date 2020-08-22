@@ -1,0 +1,24 @@
+# Mongol RPG Milestones 
+
+	• Basic Combat + 1 Game Level
+	• Working Combat + 1 Boss (varying abilities based on hit areas)
+	• Smooth Controls
+	• ALPHA
+	• Level Generator
+	• Loot Generator
+	• Story
+	• Menus
+	• Beta
+	• Skill Progression
+	• Difficulty Setting
+	• Out
+
+
+# Basic Combat + 1 Game Level
+• 1 Scene with generic Grass Plane
+• Moving Character (some free sprite)
+• 1 Generic Enemy
+• Hitting with a sword 
+• Enemies retaliates
+• Enemy guard paths
+

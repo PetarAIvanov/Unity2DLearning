@@ -15,8 +15,8 @@
 
 
 # Basic Combat + 1 Game Level
-• 1 Scene with generic Grass Plane
-• Moving Character (some free sprite)
+• DONE 1 Scene with generic Grass Plane
+• DOING Moving Character (some free sprite)
 • 1 Generic Enemy
 • Hitting with a sword 
 • Enemies retaliates

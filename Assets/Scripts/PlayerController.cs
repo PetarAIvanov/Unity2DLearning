@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public Vector2 speed = new Vector2(50, 50);
 
     // 2 - Store the movement and the component
-    private Vector2 movement;
+    private Vector2 movement;   
     private Rigidbody2D rigidbodyComponent;
     
 

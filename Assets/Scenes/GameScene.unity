@@ -137,6 +137,14 @@ PrefabInstance:
       value: 0.638
       objectReference: {fileID: 0}
     - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
       propertyPath: m_WhatIsGround.m_Bits
       value: 1
       objectReference: {fileID: 0}
@@ -160,6 +168,50 @@ PrefabInstance:
       propertyPath: playerMovement
       value: 
       objectReference: {fileID: 230235167}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 230235167}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCrouching
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 230235167}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCrouching
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 714054293, guid: a215f8c9244c722499885cd935af0f81, type: 3}
       propertyPath: m_CollisionDetection
       value: 1

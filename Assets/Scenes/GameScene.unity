@@ -146,7 +146,7 @@ PrefabInstance:
       objectReference: {fileID: 1270463741}
     - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
       propertyPath: m_JumpForce
-      value: 600
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 714054292, guid: a215f8c9244c722499885cd935af0f81, type: 3}
       propertyPath: m_MovementSmoothing
@@ -176,6 +176,10 @@ PrefabInstance:
       propertyPath: runSpeed
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 714054297, guid: a215f8c9244c722499885cd935af0f81, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 230235166}
     - target: {fileID: 8278720788416838086, guid: a215f8c9244c722499885cd935af0f81,
         type: 3}
       propertyPath: m_SortingLayerID
